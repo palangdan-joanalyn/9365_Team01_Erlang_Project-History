@@ -9,7 +9,7 @@
 #   [Log #] - Reviewer
 #    Description:
 #    Reviewer: Ruzzlee Salon
-#    Pull Request Status: [Approved, Commented, ]
+#    Pull Request Status: [Approved, Commented, Request Changes]
 
 [1] - Joanalyn Mae Palangdan
     Pull Request Number: 6
@@ -28,9 +28,14 @@
 [4] - Ruzzlee Salon
     Pull Request Number: 7
     Description: Reviewed the code submitted by Ms. Palangdan. Code should adhere to coding standards of the company
-    Status: Pending
+    Status: Request changes
 
-[[5] - Joanalyn Mae Palangdan
+[5] - Joanalyn Mae Palangdan
     Pull Request Number: 7
     Description: Addressed the changes requested by Mr. Salon
     Status: Pending
+
+[6] - Ruzzlee Salon
+    Pull Request Number: 7
+    Description: Reviewed and approved code resubmission
+    Status: Approved
