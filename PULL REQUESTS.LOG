@@ -39,3 +39,8 @@
     Pull Request Number: 7
     Description: Reviewed and approved code resubmission
     Status: Approved
+
+[7] - Mary Antoinnette Bautista
+    Pull Request Number: 8
+    Description: Added fraction_operations.erl which provides functions for performing basic arithmetic operations on fractions.
+    Status: Pending
