@@ -1,9 +1,21 @@
 # This file records the pull requests created in the main repository.
-# Every pull request is logged following the format:
-#   [#] - Pull Request Author
+# Every PULL REQUEST is logged following the format:
+#   [Log #] - Pull Request Author
+#   Pull Request Number: #
 #   Description:
 #   Status: <Pending [Default]> / <Approved>
+#
+# Every REVIEW OF PULL REQUEST that is logged follows the format:
+#   [Log #] - Reviewer
+#    Description:
+#    Reviewer: Ruzzlee Salon
+#    Pull Request Status: [Approved, Commented, ]
 
-[6] - Joanalyn Mae Palangdan
+[1] - Joanalyn Mae Palangdan
+    Pull Request Number: 6
     Description: Add contibuting.md detailing the guidelines on how contributors can contribute to the project
     Status: Pending
+
+[2] - Ruzzlee Salon
+    Description: Reviewed and approved pull request no. 6
+    Pull Request Status: Approved
