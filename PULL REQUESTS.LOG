@@ -19,3 +19,8 @@
 [2] - Ruzzlee Salon
     Description: Reviewed and approved pull request no. 6
     Pull Request Status: Approved
+
+[3] - Joanalyn Mae Palangdan
+    Pull Request Number: 7
+    Description: Added arithmetic_operations.erl containing functions to manipulate numbers
+    Status: Pending
