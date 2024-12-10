@@ -2,3 +2,8 @@
 # Every pull request is logged following the format:
 #   [#] - Pull Request Author
 #   Description:
+#   Status: <Pending [Default]> / <Approved>
+
+[6] - Joanalyn Mae Palangdan
+    Description: Add contibuting.md detailing the guidelines on how contributors can contribute to the project
+    Status: Pending
