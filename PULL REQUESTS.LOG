@@ -44,3 +44,8 @@
     Pull Request Number: 8
     Description: Added fraction_operations.erl which provides functions for performing basic arithmetic operations on fractions.
     Status: Pending
+
+[8] - Christine Angela Lapus
+    Pull Request Number: 8
+    Description: Reviewed added code by Ms. Bautista. Unused function found on line 50. 
+    Status: Requesting Changes
