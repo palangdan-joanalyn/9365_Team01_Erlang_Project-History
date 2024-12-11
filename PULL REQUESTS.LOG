@@ -76,7 +76,12 @@
     Description: Addressed issue identified in the pull request
     Status: Pending.
 
-[12] - Ruzzlee Salon
+[14] - Ruzzlee Salon
     Pull Request Number: 10
     Description: Reviewed and approved the pull request. Requested changes where made.
     Status: Approved
+
+[15] - Rhotre Matthieu Riboroso
+    Pull Request Number: 12
+    Description: Updated README.md
+    Status: Pending.
