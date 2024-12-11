@@ -70,3 +70,8 @@
     Description: Reviewed the pull request. team1_app_app.erl does not conform to the coding standards of the 
                 organization (white spaces).
     Status: Requesting Changes.
+
+[12] - Ruzzlee Salon
+    Pull Request Number: 10
+    Description: Addressed issue identified in the pull request
+    Status: Pending.
