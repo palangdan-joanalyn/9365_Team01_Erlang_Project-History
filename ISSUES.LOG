@@ -1,22 +1,46 @@
 # This file records the issues identified in the main repository.
-# Every issue is logged following the format:
+# Every issue creation is logged following the format:
 #   [#] - Issue Author
+#   Issue activity: Issue gen
+#   Assigned to:
+#   Description:
+#   Status: <Unresolved [default]> / <Resolved>
+#
+# Every issue resolution is logged following the format:
+#   [#] - Resolution Author
+#   Issue activity: Issue res
 #   Assigned to:
 #   Description:
 #   Status: <Unresolved [default]> / <Resolved>
 
-#   [1] - Jazper Bustria
-#   Assigned to: Ruzzle Salon
-#   Description: Coding Convention on arithmetic_operation 
-#   Status: <Resolved>
+    [1] - Jazper Bustria
+    Issue activity: 
+    Assigned to: Ruzzle Salon
+    Description: Coding Convention on arithmetic_operation 
+    Status: <Resolved>
 
-#   [2] - Jazper Bustria
-#   Assigned to: Ruzzle Salon, Mary Bautista, Joannalyn Palangdan, Jazper Bustria, Chrstine Lapus, Rhotre Riboroso
-#   Description: Compilation Errors and Warnings in arithmetic_calculator.erl
-#   Status: <Unresolved>
+    [2] - Jazper Bustria
+    Issue activity: Issue gen
+    Assigned to: Ruzzle Salon, Mary Bautista, Joannalyn Palangdan, Jazper Bustria, Chrstine Lapus, Rhotre Riboroso
+    Description: Compilation Errors and Warnings in arithmetic_calculator.erl
+    Status: <Unresolved>
 
-#   [3] - Jazper Bustria
-#   Assigned to: Ruzzle Salon
-#   Description: Arithmetic Operations Errors in arithmetic_operations.erl
-#   Status: <Unresolved>
+    [3] - Jazper Bustria
+    Issue activity: Issue gen
+    Assigned to: Ruzzle Salon
+    Description: Arithmetic Operations Errors in arithmetic_operations.erl
+    Status: <Unresolved>
+
+    [4] - Ruzzlee Salon
+    Issue activity: Issue res
+    Assigned to: Ruzzle Salon
+    Description: Issue was resolved by formatting the code based on the coding convention
+    Status: <Resolved>
+
+    [4] - Ruzzlee Salon
+    Issue activity: Issue res
+    Assigned to: Ruzzle Salon
+    Description: Issue was resolved by debugging the code. Specifically changing the parameters of the function in the export
+    Status: <Resolved>
+
 
