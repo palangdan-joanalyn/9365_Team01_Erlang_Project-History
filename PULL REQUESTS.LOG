@@ -74,14 +74,20 @@
 [13] - Rhotre Matthieu Riboroso
     Pull Request Number: 10
     Description: Addressed issue identified in the pull request
-    Status: Pending.
+    Status: Pending
 
 [14] - Ruzzlee Salon
     Pull Request Number: 10
     Description: Reviewed and approved the pull request. Requested changes where made.
     Status: Approved
 
-[15] - Rhotre Matthieu Riboroso
+[15] - Mary Antoinnette Bautista
+    Pull Request Number: 11
+    Description: Created a new calculator module which implements basic arithmetic functions for addition, subtraction, multiplication, and division.
+    Status: Pending
+
+[16] - Joanalyn Mae Palangdan
     Pull Request Number: 12
     Description: Updated README.md
-    Status: Pending.
+    Status: Pending
+
